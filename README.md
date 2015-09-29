@@ -1,2 +1,4 @@
 # hello-world
-Just another repisatory
+================================================
+
+This is vital to understanding how to commit a change.7
